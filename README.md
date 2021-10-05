@@ -4,11 +4,11 @@ buka http://sispakdurian.herokuapp.com/login
 2. Masukan password admin
 3. Manage Data penyakit
     1. Penyakit
-    b. Gejala Penyakit
-    c. Basis Pengetahuan
+    2. Gejala Penyakit
+    3. Basis Pengetahuan
         - fungsi tambah data, memilih data penyakit dan gejala sesuai yang ada pada database.
         - fungsi edit data, hanya bisa memasukkan nilai certainty factor saja.
-    d. Data Latih
+    4. Data Latih
         - setelah menambahkan data Penyakit atau Basis Pengetahuan, perlu menambahkan data latih penyakit
         - namun untuk saat ini belum tersedia fungsi CRUD nya, silahkan tambah pada database
 4. Manage Data Hama
