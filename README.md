@@ -12,12 +12,12 @@ buka http://sispakdurian.herokuapp.com/login
         - setelah menambahkan data Penyakit atau Basis Pengetahuan, perlu menambahkan data latih penyakit
         - namun untuk saat ini belum tersedia fungsi CRUD nya, silahkan tambah pada database
 4. Manage Data Hama
-    a. Hama
-    b. Gejala Hama
-    c. Basis Pengetahuan
+    1. Hama
+    2. Gejala Hama
+    3. Basis Pengetahuan
         - fungsi tambah data, memilih data Hama dan gejala sesuai yang ada pada database.
         - fungsi edit data, hanya bisa memasukkan nilai certainty factor saja.
-    d. Data Latih
+    4. Data Latih
         - setelah menambahkan data Hama atau Basis Pengetahuan, perlu menambahkan data latih hama
         - fungsi tambah data dapat menambah lebih dari 1 gejala.
 5. Info Penyakit
