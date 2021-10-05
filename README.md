@@ -21,9 +21,9 @@ buka http://sispakdurian.herokuapp.com/login
         - setelah menambahkan data Hama atau Basis Pengetahuan, perlu menambahkan data latih hama
         - fungsi tambah data dapat menambah lebih dari 1 gejala.
 5. Info Penyakit
-        - Admin dapat melihat hubungan antar penyakit dan gejala
-6. Info Hama
-        - Admin dapat melihat hubungan antar hama dan gejala
+    - Admin dapat melihat hubungan antar penyakit dan gejala
+7. Info Hama
+    - Admin dapat melihat hubungan antar hama dan gejala
 
 
 
