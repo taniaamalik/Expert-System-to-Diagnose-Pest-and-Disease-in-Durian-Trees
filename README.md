@@ -3,7 +3,7 @@ buka http://sispakdurian.herokuapp.com/login
 1. Masukan email admin@gmail.com
 2. Masukan password admin
 3. Manage Data penyakit
-    a. Penyakit
+    1. Penyakit
     b. Gejala Penyakit
     c. Basis Pengetahuan
         - fungsi tambah data, memilih data penyakit dan gejala sesuai yang ada pada database.
