@@ -26,7 +26,6 @@ buka http://sispakdurian.herokuapp.com/login
     - Admin dapat melihat hubungan antar hama dan gejala
 
 
-
 Menggunakan Role Member:
 untuk dapat menggunakan role member silahkan register terlebih dahulu pada http://sispakdurian.herokuapp.com/register
 setelah registrasi berhasil, silahkan login pada http://sispakdurian.herokuapp.com/login
